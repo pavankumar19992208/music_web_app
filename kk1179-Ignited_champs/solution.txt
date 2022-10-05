@@ -1,8 +1,0 @@
-Problem Solution: As we have developed frontend which shows all the funtionality and we projected our idea through this design ,also our wedsite will meet all the requirements of the
-different types of application processes.Our motive is to develop user friendly wedsite which can be easily loaded with fully responsive features for good user experience.As we are not
-adding extra loads to website, the website loading becomes faster.At present offine process the large scale industries and organisations are registering for Geographical Indication tags
-and now after making it online even a village  person can also register for GI from any corner of country if he thinks his product is unique and special.
-The plus point of our project is it will help in the tourism as they can view the special and quality products though our map view.
-
-
- 
